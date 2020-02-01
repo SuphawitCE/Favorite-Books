@@ -1,2 +1,2 @@
 # Favorite-Books
-Fundamental CS books
+These are all of my Fundamental Computer Science books
